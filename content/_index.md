@@ -21,7 +21,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 2
       filters:
         author: ""
         category: ""
@@ -35,31 +35,31 @@ sections:
       view: card
       columns: "1"
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ""
-      text:
-    design:
-      columns: "1"
-      background:
-        image:
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ["20px", "0", "20px", "0"]
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ""
+  #     text:
+  #   design:
+  #     columns: "1"
+  #     background:
+  #       image:
+  #         filename: coders.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ["20px", "0", "20px", "0"]
+  #     css_class: fullscreen
 
   - block: collection
     content:
       title: Latest Preprints
       text: ""
-      count: 5
+      count: 2
       filters:
         folders:
           - publication

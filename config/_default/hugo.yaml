@@ -61,3 +61,9 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /post/**
+    reading_time: false

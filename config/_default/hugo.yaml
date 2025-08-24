@@ -3,8 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: LinS Lab # Website name
+title: "LinS Lab" # Website name
 baseURL: "https://example.com/" # Website URL
+logo: "assets/media/icon.png" # Path to the logo image
 
 ############################
 ## LANGUAGE

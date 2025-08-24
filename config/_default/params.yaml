@@ -45,12 +45,16 @@ header:
 
 footer:
   copyright:
-    notice: "" # Remove default footer text
+    notice: "" 
     license:
       enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+
+
+params:
+  show_engine: false
 
 # Localization
 

@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: ""
+    notice: "" # Remove default footer text
     license:
       enable: false
       allow_derivatives: false

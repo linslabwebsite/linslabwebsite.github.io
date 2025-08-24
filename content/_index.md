@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        LinS Lab
+        Welcom to LinS Lab!
       image:
         filename: welcome.jpg
       text: |
         <br>
 
-        LinSLab at the National University of Singapore advances robotics and AI through research in vision-language modeling, manipulation, and planning. Our work spans from frameworks like FLIP to foundational models such as ManiFM, bridging theory and real-world robotic systems.
+        At the forefront of Robotics and AI, we are dedicated to creating intelligent robots that learn, perceive, and manipulate the physical world. We develop cutting-edge systems that enable robots to autonomously perform a wide range of tasks, revolutionizing the way they assist and collaborate with people in diverse environments.
 
   - block: collection
     content:

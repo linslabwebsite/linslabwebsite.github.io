@@ -44,17 +44,16 @@ header:
 # Site footer
 
 footer:
+  block: minimal
   copyright:
-    notice: "" 
+    notice: '©copyright LinS Lab {year} under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-
-
-params:
-  show_engine: false
+  # For multilingual sites, show a language chooser in the footer?
+  show_translations: true
 
 # Localization
 
